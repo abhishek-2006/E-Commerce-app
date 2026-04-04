@@ -56,7 +56,7 @@ dev_dependencies:
   #  open camera and pick image from device
   image_picker: ^0.8.7+5
 
-  carousel_slider: ^4.2.1
+  carousel_slider: ^5.1.2
   dots_indicator: ^3.0.0
 
 
